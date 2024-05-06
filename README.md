@@ -1,4 +1,4 @@
-# Supervised-Learning-Final-Projec
+# Supervised-Learning-Final-Project
 
 In this repository, you will find the Jupyter notebooks corresponding to the final project submission for the Supervised Learning Module of the Machine Learning subject in the Artificial Intelligence Specialization, virtual modality, at Universidad Autonoma de Occidente.
 
